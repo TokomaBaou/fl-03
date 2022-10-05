@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "165422532685",
+    "project_id": "fl-chat-03",
+    "storage_bucket": "fl-chat-03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165422532685:android:03a5b754f6d5d71868f404",
+        "android_client_info": {
+          "package_name": "com.example.fl_app_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165422532685-r97sadhon7f06g1heec7a35gghubocuo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjtiuznLK8VqrVGLggqyluJEsLw22sqRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165422532685-r97sadhon7f06g1heec7a35gghubocuo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165422532685-npjajb8kbp21a1agv5fsqt0to50f27ni.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flApp3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
